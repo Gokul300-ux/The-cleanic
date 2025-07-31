@@ -1060,3 +1060,151 @@ ul li a:hover{
     height: 70vh;
   }
 }
+
+
+@media(max-width:420px) {
+  .titile{
+    width: 80%;
+
+    margin-left: 10%;
+    font-size: 2rem;
+    position: relative;
+    top: 15%;
+  }
+
+.p1{
+
+    margin-left: 10%;
+    font-size: 1.3rem;
+    position: relative;
+    top: 15%;
+}
+.b2{
+      width: 30%;
+
+    margin-left: 35%;
+    font-size: 1.2rem;
+    position: relative;
+    top: 15%;
+}
+
+.page2{
+height: 200vh;
+
+
+}
+
+.box{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+
+  width: 100%;
+  height: 80%;
+  position: relative;
+  margin-top: -20%;
+}
+.page3{
+  height: 390vh;
+}
+.box1{
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+/* justify-content: space-evenly; */
+}
+.clean{
+  width: 50%;
+  height: 40%;
+}
+
+.k1{
+  height: 30%;
+  width: 60%;
+  position: relative;
+  top: -15%;
+}
+.k2{
+  height: 30%;
+    width: 60%;
+  position: relative;
+  top: -8%;
+}
+.k3{
+  height: 30%;
+    width: 60%;
+  position: relative;
+  top: -2%;
+}
+.title3 h3{
+  position: relative;
+  top: -175%;
+}
+.title3 p{
+   position: relative;
+  top: -145%;
+}
+
+.b4{
+   position: relative;
+   margin-top: 95%;
+   width: 30%;
+   margin-left: 35%;
+}
+
+.page4{
+  height: 80vh;
+}
+.lil{
+  border: 1px solid;
+  height: 50%;
+  width: 90%;
+  display: none;
+}
+
+.t4 h3{
+  margin-left: 25%;
+}
+.page5{
+  display: none;
+}
+.flx p{
+  position: relative;
+  top: 40%;
+  left: -15%;
+}
+.flx .br{
+  position: relative;
+  top: -10%;
+  border: 1px solid;
+  width: 45%;
+}
+
+.bo1 h3{
+  width: 160%;
+  position: relative;
+  top: 5%;
+}
+.bo1 p{
+   width: 160%;
+  position: relative;
+  top: 2%;
+  left: -13%;
+}
+.bo1 a{
+color: #0a2424;
+}
+
+.man1{
+  display: none;
+}
+.man2{
+  display: none;
+}
+.page7{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+}
