@@ -605,9 +605,8 @@ ul li a:hover{
 .page5 {
   width: 100%;
   height: 60vh;
-
-  background-image: url(./c837a6_fd16501d8d69465c8b186e3b560f72dc~mv2.avif);
-  background-color: aliceblue;
+ 
+   background-color: rgb(255, 249, 175);
 }
 
 .it {
